@@ -52,12 +52,6 @@ The goal of this project was to:
 - Leveraged slicers, bookmarks, and tooltips for interactive analysis.
 - Enabled decision support for pricing strategy and resource allocation.
 
-## 📽️ Demo
-
-🎥 Check out the full dashboard walkthrough video [Insert Video Link Here]
-
-## 📂 Folder Structure
-
 
 ## 🙌 Acknowledgment
 
